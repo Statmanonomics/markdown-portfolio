@@ -1,1 +1,1 @@
-An image is shown. [ and image is shown ]
+yokocatImage.png. ( yokocatImage.png )
